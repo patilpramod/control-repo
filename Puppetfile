@@ -17,5 +17,5 @@ forge 'https://forge.puppet.com'
 #  branch: 'docs_experiment'
 
 mod 'puppet_modules',
-    :git    => 'git@github.com:patilpramod/puppet_modules.git'
+    :git    => 'git@github.com:patilpramod/puppet_modules.git',
     :branch => 'main'
