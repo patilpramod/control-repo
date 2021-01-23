@@ -1,7 +1,7 @@
 forge 'https://forge.puppet.com'
 
 mod 'hieradata',
-  :git => 'git@github.com:patilpramod/hieradata.git',
+  :git => 'git@github.com:patilpramod/hieradata.git'
   
 
 
