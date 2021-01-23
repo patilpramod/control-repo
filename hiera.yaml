@@ -9,4 +9,12 @@ hierarchy:
     data_hash: yaml_data
     paths:
       - "nodes/%{trusted.certname}.yaml"
-      - "common.yaml"
+  
+  - name: "Per DC Business group"
+    path: "location/%{facts.whereami}/%{facts.group}.yaml"
+
+  - name: "Per OS Defaults"
+    path: "os/%{facts.os.family}.yaml"
+
+  - name: "Common Data"
+    path: "common.yaml"
