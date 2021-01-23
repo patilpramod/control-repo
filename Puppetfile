@@ -2,8 +2,7 @@ forge 'https://forge.puppet.com'
 
 mod 'hieradata',
   :git => 'git@github.com:patilpramod/hieradata.git',
-  :install_path => '.'
-
+  
 
 
 mod 'puppet_modules',
