@@ -8,7 +8,7 @@ mod 'puppet_modules',
   :branch => 'main'
 
 mod 'roles',
-  :git => 'git@github.com:patilpramod/roles1.git'
+  :git => 'git@github.com:patilpramod/roles.git'
 
 mod 'profiles',
-  :git => 'git@github.com:patilpramod/profiles1.git'
+  :git => 'git@github.com:patilpramod/profiles.git'
