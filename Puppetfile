@@ -2,7 +2,7 @@ forge 'https://forge.puppet.com'
 
 mod 'hieradata-nodes',
   :git => 'git@github.com:patilpramod/hieradata-nodes.git',
-  :branch => 'production',
+  :branch => 'master',
   :install_path => 'hieradata'
 
 mod 'puppet_modules',
@@ -11,8 +11,8 @@ mod 'puppet_modules',
 
 mod 'roles',
   :git => 'git@github.com:patilpramod/roles.git',
-  :branch => 'production'
+  :branch => 'master'
 
 mod 'profiles',
   :git => 'git@github.com:patilpramod/profiles.git',
-  :branch => 'production'
+  :branch => 'master'
