@@ -10,9 +10,5 @@ mod 'puppet_modules',
 mod 'roles',
   :git    => 'git@github.com:patilpramod/roles.git',
 
-
-mod 'profiles',
-  :git    => 'git@github.com:patilpramod/profiles.git',
-
 mod 'profiles',
   :git    => 'git@github.com:patilpramod/profiles.git',
