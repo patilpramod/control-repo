@@ -1,5 +1,7 @@
 forge 'https://forge.puppet.com'
 
+mod 'puppetlabs-stdlib', '7.0.1'
+
 mod 'hieradata-nodes',
   :git => 'git@github.com:patilpramod/hieradata-nodes.git',
   :branch => 'master',
