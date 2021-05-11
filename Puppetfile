@@ -16,3 +16,7 @@ mod 'roles',
 mod 'profiles',
   :git => 'git@github.com:patilpramod/profiles.git',
   :branch => 'master'
+
+mod 'os_patching',
+  :git => 'git@github.com:patilpramod/os_patching.git',
+  :branch => 'master'
