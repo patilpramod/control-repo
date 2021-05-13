@@ -29,5 +29,5 @@ node default {
   # Example:
   #   class { 'my_class': }
   lookup('role').include
-  hiera_include(classes)
+#  hiera_include(classes)
 }
