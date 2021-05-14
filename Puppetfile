@@ -26,3 +26,7 @@ mod 'profiles',
 mod 'os_patching',
   :git => 'git@github.com:patilpramod/os_patching.git',
   :branch => 'master'
+
+mod 'common_scripts',
+  :git => 'git@github.com:patilpramod/common_scripts.git',
+  :branch => 'main'
