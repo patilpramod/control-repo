@@ -13,7 +13,7 @@ mod 'hieradata-nodes',
 
 mod 'puppet_modules',
   :git    => 'git@github.com:patilpramod/puppet_modules.git',
-  :branch => 'main',
+  :branch => 'main'
   
 
 mod 'roles',
